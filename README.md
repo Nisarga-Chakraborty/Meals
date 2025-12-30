@@ -6,7 +6,7 @@ Discover delicious recipes, explore cuisines, and personalize your meals — all
 - Explore global cuisines: Italian, Spanish, Asian, and more — a world of flavors awaits.
 - Beautiful visuals: High‑quality food images make browsing fun and appetizing.
 - Detailed insights: Tap on any meal to learn more about ingredients, preparation, and cultural background.
-  ## Built With Passion
+## Built With Passion
 This app was crafted entirely in Flutter, showcasing cross‑platform navigation, clean architecture, and reusable widgets. It’s lightweight, fast, and designed to give users a smooth experience whether on Android or iOS.
 ## What’s Next
 - Cloud sync & backend integration for persistent favorites
